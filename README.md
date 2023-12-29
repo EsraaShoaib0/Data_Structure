@@ -2,13 +2,6 @@
 
 Welcome to the Data Structures Repository! This repository contains a collection of data structures implemented in C++.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Implemented Data Structures](#implemented-data-structures)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 This repository aims to provide efficient and reusable implementations of fundamental data structures using C++. The structures are designed and coded to be understandable, modifiable, and suitable for learning and practical usage.
